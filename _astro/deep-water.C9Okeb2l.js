@@ -1,0 +1,1 @@
+var e=`/_astro/deep-water.CGk20pd7.css`;export{e as default};
